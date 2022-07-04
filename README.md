@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+      If you want to find me,please remember my QQ number : 2540652847.
 
 <!---
 89YINGJI12/89YINGJI12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
