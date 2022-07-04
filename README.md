@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @89YINGJI12
 - 👀 I’m interested in C language
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data structures, operating systems, software development and other fields.
 - 📫 How to reach me ...
       If you want to find me,please remember my QQ number : 2540652847.
 
